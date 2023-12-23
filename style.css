@@ -9,7 +9,7 @@ body {
 
 main {
     background-color: white;
-    width: 500px;
+    width: 700px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px;
@@ -23,6 +23,15 @@ h1 {
 h2 {
     font-size: 1.5em;
     color: blue;
+}
+
+img.side {
+    max-width: 90px;
+    float: right;
+}
+
+img.back-btn {
+    max-width: 50px;
 }
 
 a {
