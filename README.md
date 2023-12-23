@@ -1,2 +1,5 @@
 # Projeto Site
- Projeto para estudo de branchs e hospedagem
+ Projeto de um site HTML e CSS para estudo do uso do GitHub.
+
+ * Branchs
+ * Hospedagem
